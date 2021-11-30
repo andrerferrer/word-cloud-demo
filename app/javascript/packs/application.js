@@ -13,4 +13,6 @@ Turbolinks.start()
 ActiveStorage.start()
 
 import "controllers"
-import "bootstrap"
+
+import { initWordCloud } from "../plugins/init_word_cloud"
+initWordCloud();
