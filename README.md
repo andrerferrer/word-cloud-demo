@@ -45,7 +45,7 @@ yarn install
 rails db:create db:migrate db:seed
 rails s
 
-# now you can go to http://localhost:3000/
+# now you can go to http://localhost:3000/ and see it there
 ```
 
 And we're good to go 🤓
